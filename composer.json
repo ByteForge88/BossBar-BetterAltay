@@ -1,0 +1,17 @@
+{
+    "name": "byteforge88/bossbar-betteraltay",
+    "description": "Add a bossbar to your BetterAltay server",
+    "type": "project",
+    "license": "LGPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Byteforge88\\BossbarBetteraltay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ByteForge88"
+        }
+    ],
+    "require": {}
+}
