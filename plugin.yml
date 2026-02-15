@@ -1,0 +1,5 @@
+name: BossBar
+version: 1.0.0
+author: ByteForge88
+api: 3.0.0
+main: byteforge88\bossbar\Core
